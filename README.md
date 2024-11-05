@@ -2,6 +2,7 @@
 
 Tutorial on Git-Hub
 
-''' python
-x = [1 2 3 4]
+'''python
+x = np.array([1 2 3 4])
 '''
+This is just it
